@@ -1,0 +1,18 @@
+# 对应 AstrBot 插件开发原则里「提交前用 ruff 格式化」这一条
+#
+# 为什么 ignore 了 E501：
+#   提示词里全是长中文串，强行折行反而更难读、更难改。
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+exclude = ["__pycache__"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = [
+    "E501",
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["astrbot"]

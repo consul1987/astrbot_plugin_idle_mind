@@ -1,0 +1,13 @@
+name: astrbot_plugin_idle_mind
+display_name: 杂念系统
+desc: 让它像人一样「想」而不是「每次都想干点什么」——念头自评想说程度、加噪声、分层落地，说不出口的沉进心事单按 7 天半衰期变淡，凌晨自动清算。零外部依赖，单独安装即可运行。
+version: 1.0.0
+author: consul1987
+short_desc: 有想法，也有想说不说的时候
+astrbot_version: ">=4.17.0"
+tags:
+  - 人格
+  - 自主
+  - 情绪
+  - 原创
+repo: https://github.com/consul1987/astrbot_plugin_idle_mind
