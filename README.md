@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![AstrBot](https://img.shields.io/badge/AstrBot-%3E%3D4.17.0-blue.svg)](https://astrbot.app)
-[![version](https://img.shields.io/badge/version-1.0.0-orange.svg)](metadata.yaml)
+[![version](https://img.shields.io/badge/version-1.0.1-orange.svg)](metadata.yaml)
 
 让它像人一样「想」，而不是「每次都想干点什么」。
 
